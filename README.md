@@ -4,7 +4,7 @@
 - Learning How to create Websites ANd js
 
 
-## My **PUBLIC** repositorys - 
+## My **PUBLIC** repos- 
 [![Verification Bot](https://github-readme-stats.vercel.app/api/pin/?username=Hidden-black&repo=Robolac&show_icons=true&theme=tokyonight)](https://github.com/Hidden-black/Robolac)<br>
  [![Verification Bot](https://github-readme-stats.vercel.app/api/pin/?username=Hidden-black&repo=Robolac-Web&show_icons=true&theme=tokyonight)](https://github.com/Hidden-black/Robolac-Web)
  
