@@ -1,7 +1,7 @@
 ## About Me
 - Hi I am HiddenBlack
 - I develop In Python
-- Learning How to create Websites ANd js
+- Learning How to create Websites And js
 
 
 ## My **PUBLIC** repos- 
