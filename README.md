@@ -16,7 +16,7 @@ Intheresting Question
 
 
 
-## Contact Me
+## Contact Info
 
 - Discord - Hidden_Black_#6969
 - Twitter - [@Hidden_Black_](https://twitter.com/Hidden_Black_)
