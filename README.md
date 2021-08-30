@@ -1,7 +1,7 @@
 ## 🧐 About Me
 - Hi I am HiddenBlack
 - I develop In Python
-- Learning How to create Websites And js
+- Learning How to create Websites And js . Yep Learning Js what can possibly go wrong ?
 - No more info u sussy Baka
 
 
