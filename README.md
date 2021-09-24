@@ -23,3 +23,5 @@ Intheresting Question
 - Email - shashwatrai_28@outlook.com
 
 Feel free to contact me :)
+
+[![Discord server](https://discord.com/widget?id=844487141248598027&theme=dark)
