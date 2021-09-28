@@ -1,3 +1,5 @@
+[![LOL](https://discord.com/api/guilds/844487141248598027/embed.png)](https://discord.gg/5gDzeDgF5U)
+
 # Who am I ?
 Intheresting Question 
 
