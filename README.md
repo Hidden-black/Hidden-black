@@ -27,4 +27,4 @@ Intheresting Question
 
 Feel free to contact me :)
 
-[![Discord server](https://discord.com/widget?id=844487141248598027&theme=dark)](https://discord.gg/5gDzeDgF5U)
+[Discord server](https://discord.gg/5gDzeDgF5U)
