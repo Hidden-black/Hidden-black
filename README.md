@@ -3,6 +3,8 @@
 # Who am I ?
 Intheresting Question 
 
+School Fucking Up My Life , Cant Manage to do this everyday
+
 
 - ## Tf i code in ?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hidden-black&layout=compact&theme=synthwave)](https://github.com/Hidden-black)
