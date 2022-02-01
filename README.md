@@ -18,7 +18,6 @@ School Fucking Up My Life , Cant Manage to do this everyday
 [![Stats](https://github-readme-stats.vercel.app/api?username=Hidden-black&hide=prs,stars&theme=synthwave)](https://github.com/Hidden-black)
 
 
-
 - ## Contact Info
 
 - Discord - Hidden_Black_#1006
