@@ -1,13 +1,10 @@
 [![LOL](https://discord.com/api/guilds/844487141248598027/embed.png)](https://discord.gg/5gDzeDgF5U)
 
 # Who am I ?
-Intheresting Question 
-
-School Fucking Up My Life , Cant Manage to do this everyday
-sed
+Interesting Question 
 
 
-- ## Tf i code in ?
+- ## What I code in ?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hidden-black&layout=compact&theme=synthwave)](https://github.com/Hidden-black)
 
 - ## My repos- 
@@ -15,7 +12,7 @@ sed
 [![Verification Bot](https://github-readme-stats.vercel.app/api/pin/?username=Hidden-black&repo=Robolac-in-Js&show_icons=true&theme=synthwave)](https://github.com/Hidden-black/Robolac)
 [![Verification Bot](https://github-readme-stats.vercel.app/api/pin/?username=Hidden-black&repo=Robolac-Web&show_icons=true&theme=synthwave)](https://github.com/Hidden-black/Robolac-Web)
 
-- ## Tf git thing i am 
+- ## Tf git thing I am 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Hidden-black&hide=prs,stars&theme=synthwave)](https://github.com/Hidden-black)
 
 
