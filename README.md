@@ -7,7 +7,7 @@
 [![Verification Bot](https://github-readme-stats.vercel.app/api/pin/?username=Hidden-black&repo=Robolac&show_icons=true&theme=synthwave)](https://github.com/Hidden-black/Robolac)
 [![Verification Bot](https://github-readme-stats.vercel.app/api/pin/?username=Hidden-black&repo=Robolac-in-Js&show_icons=true&theme=synthwave)](https://github.com/Hidden-black/Robolac)
 [![Verification Bot](https://github-readme-stats.vercel.app/api/pin/?username=Hidden-black&repo=Planet-data-graph&show_icons=true&theme=synthwave)](https://github.com/Hidden-black/Planet-data-graph)
-[![Verification Bot](https://github-readme-stats.vercel.app/api/pin/?username=Hidden-black&repo=Dupe-File-Search&show_icons=true&theme=synthwave)](https://github.com/Hidden-black/Dupe-File-Search)
+
 
 - ## Tf git thing I am 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Hidden-black&hide=prs,stars&theme=synthwave)](https://github.com/Hidden-black)
