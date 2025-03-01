@@ -1,10 +1,6 @@
-[![LOL](https://discord.com/api/guilds/844487141248598027/embed.png)](https://discord.gg/5gDzeDgF5U)
+Just a random guy on the internet
 
-# Who am I ?
-Interesting Question 
-
-
-- ## What I code in ?
+## What I code in ?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hidden-black&layout=compact&theme=synthwave)](https://github.com/Hidden-black)
 
 - ## My repos- 
