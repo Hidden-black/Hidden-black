@@ -2,7 +2,6 @@
 
 ## What I code in ?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hidden-black&layout=compact&theme=synthwave)](https://github.com/Hidden-black)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hidden-black&layout=compact)](https://github.com/Hidden-black)
 
 - ## My repos- 
 [![Verification Bot](https://github-readme-stats.vercel.app/api/pin/?username=Hidden-black&repo=Robolac&show_icons=true&theme=synthwave)](https://github.com/Hidden-black/Robolac)
